@@ -5,24 +5,40 @@ Questa guida descrive come installare e avviare automaticamente **WorkTimeTrayTo
 ---
 
 ## 📂 Installazione
-1. Clicca il link ricevuto dalla mail di aggiornamento oppure recati all'indirizzo :
 
-   https://github.com/WorkTimeTrayTool/WorkTimeTrayTool-Releases/tree/main/releases
+### 1️⃣ Scarica l’ultima versione
+Apri la pagina delle release:
 
-   Da qui è possibile scaricare lo zip contenente il file .exe:
-   <img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/2ec549f2-84dc-4372-bcb9-eb3b609e4473" />
+👉 **https://github.com/WorkTimeTrayTool/WorkTimeTrayTool-Releases/tree/main/releases**
 
-3. Estrai e copia la cartella **WorkTimeTrayTool**, contenente l’eseguibile `WorkTimeTrayTool.exe`, in una posizione locale a tua scelta.  
-   Esempi:
-   - `C:\Program Files\WorkTimeTrayTool`
-   - `E:\WorkTimeTrayTool`
-   
-   **N.B. Se stai facendo un aggiornamento allora devi solamente sostituire l'exe nella cartella già esistente**
+Scarica il file **ZIP** relativo all’ultima versione disponibile.
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/2ec549f2-84dc-4372-bcb9-eb3b609e4473" />
+
+---
+
+### 2️⃣ Estrai la cartella
+Una volta scaricato lo ZIP:
+- estrai il contenuto;
+- copia la cartella **WorkTimeTrayTool** in una posizione locale a tua scelta.
+
+Esempi consigliati:
+- `C:\Program Files\WorkTimeTrayTool`
+- `E:\WorkTimeTrayTool`
 <img width="860" height="191" alt="image" src="https://github.com/user-attachments/assets/bd9eb453-509f-4966-8f3a-9aee75abf21b" />
 
 ---
 
-## 🔄 Avvio automatico con Windows
+## 🔄 Aggiornamento
+
+Se possiedi già una versione precedente dell’app:
+
+👉 **sostituisci soltanto il file `WorkTimeTrayTool.exe`** nella cartella esistente.
+
+Non serve riconfigurare nulla.
+
+---
+
+## 🚀 Avvio Automatico con Windows
 
 Per configurare l’avvio automatico dell’applicazione:
 
@@ -46,7 +62,7 @@ Quando l’applicazione è in esecuzione, appare come icona nell’area di notif
 <img width="356" height="235" alt="image" src="https://github.com/user-attachments/assets/10e17e58-4081-418a-b571-a0aa75ed120e" />
 
 
-### Consiglio  
+### 📌 Suggerimento  
 Ti suggeriamo di **pinnare l’icona** nella taskbar, così da averla sempre visibile e rapidamente accessibile.
 
 1. <img width="340" height="228" alt="image" src="https://github.com/user-attachments/assets/dfa3e138-6dc7-49f4-9fae-f1c3ddf90bd8" />
