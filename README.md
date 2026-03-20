@@ -5,11 +5,19 @@ Questa guida descrive come installare e avviare automaticamente **WorkTimeTrayTo
 ---
 
 ## 📂 Installazione
+1. Clicca il link ricevuto dalla mail di aggiornamento oppure recati all'indirizzo :
 
-1. Copia la cartella **WorkTimeTrayTool**, contenente l’eseguibile `WorkTimeTrayTool.exe`, in una posizione locale a tua scelta.  
+   https://github.com/WorkTimeTrayTool/WorkTimeTrayTool-Releases/tree/main/releases
+
+   Da qui è possibile scaricare lo zip contenente il file .exe:
+   <img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/2ec549f2-84dc-4372-bcb9-eb3b609e4473" />
+
+3. Estrai e copia la cartella **WorkTimeTrayTool**, contenente l’eseguibile `WorkTimeTrayTool.exe`, in una posizione locale a tua scelta.  
    Esempi:
    - `C:\Program Files\WorkTimeTrayTool`
    - `E:\WorkTimeTrayTool`
+   
+   **N.B. Se stai facendo un aggiornamento allora devi solamente sostituire l'exe nella cartella già esistente**
 <img width="860" height="191" alt="image" src="https://github.com/user-attachments/assets/bd9eb453-509f-4966-8f3a-9aee75abf21b" />
 
 ---
