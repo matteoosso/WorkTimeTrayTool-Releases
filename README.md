@@ -12,7 +12,7 @@ Apri la pagina delle release:
 👉 **https://github.com/WorkTimeTrayTool/WorkTimeTrayTool-Releases/tree/main/releases**
 
 Scarica il file **ZIP** relativo all’ultima versione disponibile.
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/2ec549f2-84dc-4372-bcb9-eb3b609e4473" />
+<img width="1822" height="354" alt="image" src="https://github.com/user-attachments/assets/801b0b9d-ed4d-4c58-9795-486feff630de" />
 
 ---
 
